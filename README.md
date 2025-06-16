@@ -1,1 +1,1 @@
-Birthdays Reeminder Website.
+Birthday Reminder Website.
