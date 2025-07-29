@@ -5,7 +5,6 @@ const cors = require('cors');
 const axios = require('axios');
 const Employee = require('./models/Employee');
 
-
 const app = express();
 app.use(cors());
 app.use(express.json());
