@@ -9,6 +9,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+
 mongoose.connect('mongodb://localhost:27017/birthdayDB', {
     useNewUrlParser: true,
     useUnifiedTopology: true
